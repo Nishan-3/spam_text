@@ -1,2 +1,4 @@
 # spam_text
-BasicSpamdetection from sklearn,python and otther modules 
+Basic Spamdetection from sklearn,python and otther modules 
+here i have used the numpy,matplotlib,pandas nltk and other modules 
+
